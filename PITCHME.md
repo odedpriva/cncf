@@ -40,6 +40,8 @@
 
 ### landscape
 
+---
+
 ![cncfLandscape](cncfLandscape.png)
 
 [cncfLandscape](https://github.com/cncf/landscape)
@@ -57,7 +59,7 @@
 
 - take it or leave it?
 - connector server mode
-- pluggable solution ( security, loging, application discovery, scale ... )
+- pluggable solution - batteries included ( security, loging, application discovery, scale ... )
 
 ---
 
