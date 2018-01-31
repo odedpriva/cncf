@@ -1,15 +1,30 @@
 # luminate @ CNCF ?
+
 ---
-![tweet](tweet.png)
+
+![backplane](backplane.png)
+
+---
+
+![cf-wrap](cf-wrap.png)
+
+---
+
+![http-tunnnel](http-tunnnel.png)
 
 ---
 
 ## luminate's connector Vs ..
 
+- [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel)
 - [localtunnel](https://localtunnel.github.io/www/)
 - [ngrok](https://ngrok.com/2)
 - [backplane](https://www.backplane.io/)
 - [reversehttp](http://reversehttp.net/)
+
+---
+
+## CNCF - CLOUD NATIVE COMPUTING FOUNDATION
 
 ---
 
@@ -22,6 +37,27 @@
 - [why join?](https://www.cncf.io/projects/)
 
 ---
+
+### landscape
+
+![cncfLandscape](cncfLandscape.png)
+
+[cncfLandscape](https://github.com/cncf/landscape)
+
+### licnese
+
+- Apache-2.0 is [recommanded](https://www.cncf.io/blog/2017/02/01/cncf-recommends-aslv2/)
+
+
+---
+
+![directions](directions.jpg)
+
+---
+
+- take it or leave it?
+- connector server mode
+- pluggable solution ( security, loging, application discovery, scale ... )
 
 ## external links
 
