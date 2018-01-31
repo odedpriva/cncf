@@ -10,7 +10,7 @@
 
 ---
 
-![http-tunnnel](http-tunnnel.png)
+![tunnnel](tunnnel.png)
 
 ---
 
