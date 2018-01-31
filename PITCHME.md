@@ -44,7 +44,7 @@
 
 ![cncfLandscape](cncfLandscape.png)
 
-[cncfLandscape](https://github.com/cncf/landscape)
+[landscape](https://github.com/cncf/landscape)
 
 ### licnese
 
