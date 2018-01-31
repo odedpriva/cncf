@@ -59,6 +59,8 @@
 - connector server mode
 - pluggable solution ( security, loging, application discovery, scale ... )
 
+---
+
 ## external links
 
 * cncf [overview](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g2c13d20ecb_1_0)
